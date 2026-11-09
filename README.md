@@ -16,11 +16,11 @@ The accounting tools run entirely in the browser, so no data leaves your machine
 
 | Tool | What it does | |
 |---|---|---|
-| **Voice Translator** | One-tap phone translator for 100+ languages using Gemini, with colloquial Hong Kong Cantonese and Castilian Spanish handled explicitly and a choice of voices | [Live demo](https://www.wong.cpa/interpret/) · [Code](https://github.com/wongcpa/interpret) |
+| **Voice Translator** | One-tap phone translator for 100+ languages using Gemini, with a choice of voices and home-screen install | [Live demo](https://www.wong.cpa/interpret/) · [Code](https://github.com/wongcpa/interpret) |
 | **Multi-Entity Consolidation** | Consolidates USD, CAD and GBP entities with IAS 21 translation, CTA and intercompany elimination | [Live demo](https://www.wong.cpa/fx-consolidation-engine/src/) · [Code](https://github.com/wongcpa/fx-consolidation-engine) |
 | **GL Mapping Validator Suite** | Validates chart of accounts mappings for five ERP migrations (NetSuite, SAP, Oracle, Workday, Xero, QBO) | [Live demo](https://www.wong.cpa/gl-migration-validator-suite/src/) · [Code](https://github.com/wongcpa/gl-migration-validator-suite) |
 | **Contra Revenue Flux Analyzer** | MoM / QoQ gross-to-net flux analysis with Model N anomaly detection | [Live demo](https://www.wong.cpa/contra-revenue-flux-analyzer/src/) · [Code](https://github.com/wongcpa/contra-revenue-flux-analyzer) |
-| **Contract Revenue Reviewer** | Flags IFRS 15 / ASPE 3400 revenue recognition risks in contracts (PDF or text) | [Live demo](https://www.wong.cpa/ifrs15-contract-reviewer/src/) · [Code](https://github.com/wongcpa/ifrs15-contract-reviewer) |
+| **Contract Revenue Reviewer** | Flags IFRS 15 / ASC 606 / ASPE 3400 revenue recognition risks in contracts (PDF or text) | [Live demo](https://www.wong.cpa/ifrs15-contract-reviewer/src/) · [Code](https://github.com/wongcpa/ifrs15-contract-reviewer) |
 | **CRA Expense Categorizer** | Categorizes bank transactions to CRA T2125 lines, applying the 50% meals rule | [Live demo](https://www.wong.cpa/cra-expense-categorizer/src/) · [Code](https://github.com/wongcpa/cra-expense-categorizer) |
 
 ---
